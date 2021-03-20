@@ -1,4 +1,8 @@
-### Hi there 👋
+# Ebulas Technologies ⚡
+
+We are a group of developers that build custom applications for clients and the world.
+
+If we build something that we deem usable by the world, we will create a public repository to share it.
 
 <!--
 **ebulas-technologies/ebulas-technologies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
